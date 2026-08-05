@@ -25,7 +25,7 @@ dict= {"tanya":"tanyashayan26@gmail.com"}
 def send_mail(receiver, subject, body):
     server = smtplib.SMTP("smtp.gmail.com", 587)
     server.starttls()
-    server.login("eautomation143@gmail.com","grdj szlv rsuu xivs")
+    server.login("eautomation143@gmail.com"," not sharing password lol")
     email = EmailMessage()
     email["From"]= "eautomation143@gmail.com"
     email["To"] = receiver
