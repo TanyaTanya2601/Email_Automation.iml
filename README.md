@@ -259,7 +259,9 @@ The program will:
 6. Send the email.
 
 ---
-<img width="707" height="447" alt="image" src="https://github.com/user-attachments/assets/d68f4a27-1d41-4faa-bc71-571576c9b7f7" />
+
+<img width="1238" height="410" alt="image" src="https://github.com/user-attachments/assets/8fb4027a-f742-4534-b488-ba50f437e132" />
+
 
 
 
